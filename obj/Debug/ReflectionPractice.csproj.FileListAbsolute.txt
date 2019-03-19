@@ -1,0 +1,7 @@
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\bin\Debug\ReflectionPractice.exe.config
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\bin\Debug\ReflectionPractice.exe
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\bin\Debug\ReflectionPractice.pdb
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\obj\Debug\ReflectionPractice.csprojAssemblyReference.cache
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\obj\Debug\ReflectionPractice.csproj.CoreCompileInputs.cache
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\obj\Debug\ReflectionPractice.exe
+c:\users\шадикьянр.corp\source\repos\ReflectionPractice\ReflectionPractice\obj\Debug\ReflectionPractice.pdb
